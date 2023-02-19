@@ -1,0 +1,66 @@
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@800&family=Roboto&display=swap');
+</style>
+
+/* Body */
+body{
+    font-family: 'EB Garamond', serif;
+    background-color: #FFFFFF;
+}
+
+/* Button Color */
+.pri-color{
+    color: #B68C5A;
+}
+
+/* Header Area */
+.header-banner{
+    background-image: url(../images/banner.png);
+    background-position: center;
+    background-size: cover;
+}
+
+/* Service Boxes */
+.custom-gradient{
+    background: linear-gradient(180deg, #F3F3F3 0%, rgba(243, 243, 243, 0) 100%);
+}
+
+/* Slider Styles */
+
+.bg-slider-one{
+    background-image: url(../images/slider-1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.my-border{
+    border: 4px solid white;
+}
+
+.bg-slider-two{
+    background-image: url(../images/slider-2.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-slider-three{
+    background-image: url(../images/slider-3.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-color{
+    background-color: #B68C5A;
+}
+
+/* Accordian Styles */
+.my-question-header{
+    background-color: #dadfe7;
+    color: black;
+    font-size: 40px;
+}
+
+.carousel-item{
+    height: 500px;
+    width: 100%;
+}
